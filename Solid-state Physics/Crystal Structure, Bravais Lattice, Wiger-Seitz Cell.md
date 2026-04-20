@@ -8,4 +8,3 @@
 | NaCl, Diamond                                                                                           | Polymer, Glass, Amorphous semiconductors, random alloys,                                                                                                                                                      |
 
 #### 2.1.2 Crystal System, Lattice, and Structure
-So this is what I am trying to add
