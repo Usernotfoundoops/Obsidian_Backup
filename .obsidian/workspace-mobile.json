@@ -20,18 +20,6 @@
               "icon": "lucide-file",
               "title": "Crystal Structure, Bravais Lattice, Wiger-Seitz Cell"
             }
-          },
-          {
-            "id": "5d38da92a8953899",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Solid-state Physics/Drawing 2026-04-20 19.27.35.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-04-20 19.27.35.excalidraw"
-            }
           }
         ]
       }
@@ -184,16 +172,20 @@
   },
   "active": "082572cf67e7752a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Solid-state Physics/Drawing 2026-04-16 06.40.37.excalidraw.md",
+    "Solid-state Physics/SSP class 2.excalidraw.md",
+    "Solid-state Physics/MATH Area vector.excalidraw.md",
+    "/Solid-state Physics/SSP class 2.excalidraw.md",
+    "/Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
+    "/Solid-state Physics/MATH Area vector.excalidraw.md",
+    "/Solid-state Physics",
+    "Solid-state Physics/Introduction.md",
     "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
     "Solid-state Physics/Drawing 2026-04-20 19.27.35.excalidraw.md",
+    "conflict-files-obsidian-git.md",
     "Solid-state Physics/We consider only EM force since other forces are negligible.md",
     "Workspace/Workspace or Solutions.md",
-    "Solid-state Physics/Drawing 2026-04-16 06.40.37.excalidraw.md",
-    "Solid-state Physics/Introduction.md",
     "Excalidraw",
-    "/Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
-    "/Solid-state Physics",
     "Untitled/Hello.md",
     "Workspace",
     "Emacs/Keybind.md",
@@ -223,13 +215,9 @@
     "2025/Adv. QM/Chapter 2",
     "2025/Reference Images",
     "2025/Adv. QM",
-    "Solid-state Physics/INDEX.md",
     "Solid-state Physics/Interactions.canvas",
     "C++/Materials/Assembly Language.canvas",
-    "C++/Materials/Basics.md",
     "C++/Materials/Implementation Diagram.canvas",
-    "C++/Materials/C vs C++.md",
-    "C++/Materials/BIG IMAGE.canvas",
-    "C++/Objects and Variables.md"
+    "C++/Materials/BIG IMAGE.canvas"
   ]
 }
