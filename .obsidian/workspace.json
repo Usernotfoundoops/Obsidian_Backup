@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solid-state Physics/We consider only EM force since other forces are negligible.md",
+                "file": "Solid-state Physics/INDEX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "We consider only EM force since other forces are negligible"
+              "title": "INDEX"
             }
           }
         ]
@@ -182,17 +182,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c910f9de495d8bbd",
+  "active": "11401809823c9ddf",
   "lastOpenFiles": [
+    "Solid-state Physics/Drawing 2026-04-16 06.40.37.excalidraw.md",
+    "Solid-state Physics/INDEX.md",
+    "Solid-state Physics/We consider only EM force since other forces are negligible.md",
     "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
     "C++/Objects and Variables.md",
-    "Solid-state Physics/INDEX.md",
     "2025/Adv. QM/Chapter 1/Hilbert_Space_Formalization.md",
     "Solid-state Physics/Introduction.md",
-    "Solid-state Physics/We consider only EM force since other forces are negligible.md",
     "Crystallization of Solids.md",
     "Solid-state Physics/Interactions.canvas",
-    "Solid-state Physics/Drawing 2026-04-16 06.40.37.excalidraw.md",
     "C++/INDEX.md",
     "Untitled.md",
     "C++/Materials/Assembly Language.canvas",
