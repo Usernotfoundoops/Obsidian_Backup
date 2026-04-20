@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Solid-state Physics/INDEX.md",
+                "file": "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "INDEX"
+              "title": "Crystal Structure, Bravais Lattice, Wiger-Seitz Cell"
             }
           }
         ]
@@ -184,8 +184,8 @@
   },
   "active": "11401809823c9ddf",
   "lastOpenFiles": [
-    "Solid-state Physics/Drawing 2026-04-16 06.40.37.excalidraw.md",
     "Solid-state Physics/INDEX.md",
+    "Solid-state Physics/Drawing 2026-04-16 06.40.37.excalidraw.md",
     "Solid-state Physics/We consider only EM force since other forces are negligible.md",
     "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
     "C++/Objects and Variables.md",
