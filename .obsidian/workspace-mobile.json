@@ -11,14 +11,12 @@
             "id": "082572cf67e7752a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Solid-state Physics/INDEX.md",
-                "mode": "source",
-                "source": false
+                "file": "Solid-state Physics/MATH Area vector.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "INDEX"
+              "icon": "excalidraw-icon",
+              "title": "MATH Area vector.excalidraw"
             }
           }
         ]
@@ -112,7 +110,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
+            "file": "Solid-state Physics/MATH Area vector.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -172,8 +170,10 @@
   },
   "active": "082572cf67e7752a",
   "lastOpenFiles": [
-    "Solid-state Physics/MATH Area vector.excalidraw.md",
+    "Solid-state Physics/INDEX.md",
+    "Solid-state Physics/Interactions.canvas",
     "Solid-state Physics/Introduction.md",
+    "Solid-state Physics/MATH Area vector.excalidraw.md",
     "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
     "Solid-state Physics/SSP class 2.excalidraw.md",
     "Solid-state Physics/Drawing 2026-04-16 06.40.37.excalidraw.md",
@@ -202,9 +202,7 @@
     "2025/Adv. QM/Chapter 1/Chapter 1 Link Material/Weak or Generalized Measurement.md",
     "2025/Adv. QM/Chapter 1/Chapter 1 Link Material/Tensor Product vs Addition of Operators.md",
     "2025/Adv. QM/Chapter 1/Chapter 1 Link Material/Rays.md",
-    "2025/Adv. QM/Chapter 1/Hilbert_Space_Formalization.md",
     "2025/Adv. QM/Chapter 1/Chapter 1 Link Material",
-    "2025/Adv. QM/Chapter 2/Symmetries in Quantum Theory.md",
     "2025/Reference Images/Pasted image 20260315124957.png",
     "2025/Reference Images/Pasted image 20260313141448.png",
     "2025/Reference Images/Pasted image 20260314014021.png",
@@ -215,7 +213,6 @@
     "2025/Adv. QM/Chapter 2",
     "2025/Reference Images",
     "2025/Adv. QM",
-    "Solid-state Physics/Interactions.canvas",
     "C++/Materials/Assembly Language.canvas",
     "C++/Materials/Implementation Diagram.canvas",
     "C++/Materials/BIG IMAGE.canvas"
