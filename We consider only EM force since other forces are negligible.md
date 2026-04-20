@@ -1,0 +1,1 @@
+In solid state physics we keep only electromagnetic force. Gravity too weak. Strong & weak forces act only inside nucleus (very short range), so ignored for electrons and lattice vibrations

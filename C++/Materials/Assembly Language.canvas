@@ -1,0 +1,44 @@
+{
+	"nodes":[
+		{"id":"9d8b23c836f29bb3","type":"text","text":"CPU x32 Architect","x":-510,"y":-100,"width":250,"height":60,"color":"1"},
+		{"id":"8a8650dd25b13713","type":"text","text":"Assembler 2","x":-220,"y":-270,"width":250,"height":60,"color":"4"},
+		{"id":"d3fc253afe48eda8","type":"text","text":"CPU Arm64 Architect","x":-220,"y":-130,"width":250,"height":60,"color":"4"},
+		{"id":"dcf8f989e482ab21","type":"text","text":"Assembly Language","x":-220,"y":-440,"width":250,"height":50,"color":"#d9d9d9"},
+		{"id":"68e1b87e2348f166","type":"text","text":"Assembler 1","x":-510,"y":-300,"width":250,"height":60,"color":"1"},
+		{"id":"efe0c85c91f1f014","type":"text","text":"Assembler 3","x":60,"y":-330,"width":250,"height":60,"color":"5"},
+		{"id":"3970a449f9288187","type":"text","text":"CPU x86 Architect","x":60,"y":-210,"width":250,"height":60,"color":"5"}
+	],
+	"edges":[
+		{
+			"id":"241e39645983a2de",
+			"fromFloating":false,
+			"styleAttributes":{
+				"pathfindingMethod":"square",
+				"arrow":null
+			},
+			"fromNode":"dcf8f989e482ab21",
+			"fromSide":"bottom",
+			"toNode":"68e1b87e2348f166",
+			"toSide":"top",
+			"color":"1"
+		},
+		{"id":"1f554d7d5be41ec3","fromNode":"68e1b87e2348f166","fromSide":"bottom","toNode":"9d8b23c836f29bb3","toSide":"top","color":"1"},
+		{"id":"1fbe6763e3947ab5","fromNode":"8a8650dd25b13713","fromSide":"bottom","toNode":"d3fc253afe48eda8","toSide":"top","color":"4"},
+		{"id":"318e19a97006b0e1","fromNode":"efe0c85c91f1f014","fromSide":"bottom","toNode":"3970a449f9288187","toSide":"top","color":"5"},
+		{"id":"a9cae9c5d68fadc5","toFloating":false,"fromNode":"dcf8f989e482ab21","fromSide":"bottom","toNode":"8a8650dd25b13713","toSide":"top","color":"4"},
+		{
+			"id":"c1b7e30025535793",
+			"fromFloating":false,
+			"styleAttributes":{"pathfindingMethod":"square"},
+			"fromNode":"dcf8f989e482ab21",
+			"fromSide":"bottom",
+			"toNode":"efe0c85c91f1f014",
+			"toSide":"top",
+			"color":"5"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

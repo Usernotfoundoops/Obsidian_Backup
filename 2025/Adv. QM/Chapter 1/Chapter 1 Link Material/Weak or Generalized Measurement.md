@@ -1,0 +1,3 @@
+Projective measurement is idealised — it completely collapses the state and gives one sharp outcome. In reality measurements are messier.
+
+Weak measurement says: instead of directly measuring ψ, **couple ψ to a bigger system**, let them interact (time evolve together), then measure the bigger system. The information about ψ leaks out gradually without fully collapsing it. It's a gentler, more realistic model of measurement.

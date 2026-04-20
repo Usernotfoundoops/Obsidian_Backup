@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "97e52b784cd22bf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "4634af5dc722ecca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f56e98e7b01fa726",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a63b4b7c6f9689b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b07017b4b4e5adf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cee14f71d5e8d5e5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d7febbe8222e5b23",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ffabf4815fa1cd39",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 225.5
+  },
+  "right": {
+    "id": "af385ee10b666439",
+    "type": "split",
+    "children": [
+      {
+        "id": "3140646081b7bb45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf3776cfdbb79168",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Adv. QM/Hilbert_Space_Formalization.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hilbert_Space_Formalization"
+            }
+          },
+          {
+            "id": "7ddc7873a433c268",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "System Canvas.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from System Canvas"
+            }
+          },
+          {
+            "id": "06a1a36c20fada03",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "1bf4884c88889618",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "System Canvas.canvas",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of System Canvas"
+            }
+          },
+          {
+            "id": "1df33a6a0db9a0a2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f56e98e7b01fa726",
+  "lastOpenFiles": [
+    "Untitled 1.base",
+    "Untitled.base",
+    "Adv. QM/Chapter 2/Symmetries in Quantum Theory.md",
+    "Adv. QM/Chapter 1/Chapter 1 Link Material/Stone's Theorem.md",
+    "Adv. QM/Chapter 1/Hilbert_Space_Formalization.md",
+    "Adv. QM/Chapter 2/Chapter 2 Link Materials",
+    "Adv. QM/Chapter 2",
+    "Reference Images/Pasted image 20260314014021.png",
+    "Adv. QM/Chapter 1",
+    "Adv. QM/Chapter 1/Chapter 1 Link Material/Cauchy-Schwartz Inequality.md",
+    "Adv. QM/Chapter 1/Chapter 1 Link Material/Tensor Product vs Addition of Operators.md",
+    "Reference Images/Pasted image 20260315143409.png",
+    "Adv. QM/Chapter 1/Chapter 1 Link Material/Relation between Unitary and Self-Adjoint Operators.md",
+    "Adv. QM/Chapter 1/Chapter 1 Link Material/Extra on Tensor Product.md",
+    "Reference Images/Pasted image 20260315124957.png",
+    "Adv. QM/Chapter 1.md",
+    "Reference Images/Pasted image 20260313141524.png",
+    "Reference Images/Pasted image 20260312195944.png",
+    "Reference Images",
+    "Adv. QM/Chapter 1/Chapter 1 Link Material/Rays.md",
+    "Adv. QM/Chapter 1/Chapter 1 Link Material",
+    "Adv. QM/Chapter 1/Chapter 1 Link Material/Weak or Generalized Measurement.md",
+    "Weak",
+    "Pasted image 20260313141501.png",
+    "Reference Images/Pasted image 20260313141448.png",
+    "Dirac Notation.md",
+    "Pasted image 20260312195940.png",
+    "Adv. QM",
+    "System Canvas.canvas",
+    "Tips for life.md",
+    "System Canvas.md",
+    "Welcome.md"
+  ]
+}
