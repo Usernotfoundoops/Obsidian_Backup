@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "575a3aefc0756267",
+    "type": "split",
+    "children": [
+      {
+        "id": "816dcaa1bd82f09e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "082572cf67e7752a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Crystal Structure, Bravais Lattice, Wiger-Seitz Cell"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7069d069aa0fcd78",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "34874ca2132efd0f",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "d3df5e6e1e9cf745",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "770a68cfef390e6d",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "f014703197478a78",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "ea9a58a70ce5c2f3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "c92cbaa876f81774",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5d06761552663928",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "166ad765cc359829",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "587d0bda963f6aa4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "082572cf67e7752a",
+  "lastOpenFiles": [
+    "Solid-state Physics/Drawing 2026-04-16 06.40.37.excalidraw.md",
+    "Untitled/Hello.md",
+    "Workspace/Workspace or Solutions.md",
+    "Workspace",
+    "Emacs/Keybind.md",
+    "Emacs",
+    "Quantum Annealing/Quantum Algorithm for Linear Systems of Equations.md",
+    "Quantum Annealing/Untitled.md",
+    "Quantum Annealing/Ref..md",
+    "Quantum Annealing/Pasted image 20260323171729.png",
+    "Quantum Annealing",
+    "2025/Adv. QM/Chapter 1/Chapter 1 Link Material/Stone's Theorem.md",
+    "2025/Adv. QM/Chapter 1/Chapter 1 Link Material/Extra on Tensor Product.md",
+    "2025/Adv. QM/Chapter 1/Chapter 1 Link Material/Relation between Unitary and Self-Adjoint Operators.md",
+    "2025/Adv. QM/Chapter 1/Chapter 1 Link Material/Cauchy-Schwartz Inequality.md",
+    "2025/Adv. QM/Chapter 1/Chapter 1 Link Material/Weak or Generalized Measurement.md",
+    "2025/Adv. QM/Chapter 1/Chapter 1 Link Material/Tensor Product vs Addition of Operators.md",
+    "2025/Adv. QM/Chapter 1/Chapter 1 Link Material/Rays.md",
+    "2025/Adv. QM/Chapter 1/Hilbert_Space_Formalization.md",
+    "2025/Adv. QM/Chapter 1/Chapter 1 Link Material",
+    "2025/Adv. QM/Chapter 2/Symmetries in Quantum Theory.md",
+    "2025/Reference Images/Pasted image 20260315124957.png",
+    "2025/Reference Images/Pasted image 20260313141448.png",
+    "2025/Reference Images/Pasted image 20260314014021.png",
+    "2025/Reference Images/Pasted image 20260313141524.png",
+    "2025/Reference Images/Pasted image 20260315143409.png",
+    "2025/Reference Images/Pasted image 20260312195944.png",
+    "2025/Adv. QM/Chapter 1",
+    "2025/Adv. QM/Chapter 2",
+    "2025/Reference Images",
+    "2025/Adv. QM",
+    "2025",
+    "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
+    "Solid-state Physics/Introduction.md",
+    "Solid-state Physics/INDEX.md",
+    "Solid-state Physics/We consider only EM force since other forces are negligible.md",
+    "Solid-state Physics/Interactions.canvas",
+    "Solid-state Physics",
+    "C++/Materials/Assembly Language.canvas",
+    "C++/Materials/Basics.md",
+    "C++/Materials/Implementation Diagram.canvas",
+    "C++/Materials/C vs C++.md",
+    "C++/Materials/BIG IMAGE.canvas",
+    "C++/Objects and Variables.md",
+    "C++/INDEX.md"
+  ]
+}
