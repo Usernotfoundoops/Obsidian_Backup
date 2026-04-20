@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11401809823c9ddf",
+            "id": "61c05ff8bf073a0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Solid-state Physics/INDEX.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/plugins/obsidian-git/data.json",
+                "bFile": ".obsidian/plugins/obsidian-git/data.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "INDEX"
+              "icon": "diff",
+              "title": "Diff: data.json  (Working Tree)"
             }
           }
         ]
@@ -161,13 +161,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "6d73afad620e6a1e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,14 +192,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "11401809823c9ddf",
+  "active": "61c05ff8bf073a0d",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Solid-state Physics/MATH Area vector.excalidraw.md",
-    "Solid-state Physics/Introduction.md",
     "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
-    "Solid-state Physics/Interactions.canvas",
     "Solid-state Physics/SSP class 2.excalidraw.md",
     "Solid-state Physics/INDEX.md",
+    "Solid-state Physics/Introduction.md",
+    "Solid-state Physics/Interactions.canvas",
     "Solid-state Physics/We consider only EM force since other forces are negligible.md",
     "C++/Objects and Variables.md",
     "2025/Adv. QM/Chapter 1/Hilbert_Space_Formalization.md",
