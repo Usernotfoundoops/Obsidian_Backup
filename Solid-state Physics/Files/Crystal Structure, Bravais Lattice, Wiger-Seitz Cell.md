@@ -19,4 +19,4 @@
 4. Volume(scalar triple product) **$V = |a_1 \cdot (a_2 \times a_3)|$**
 5. [[Dimension 2 Crystal Systems.canvas|2 Dimensional Crystal Configurations/Symmetries]]
 6.  The description of objects in the unit cell with respect to a reference lattice point in the unit cell constitutes a *basis*.
-7. 
+7.  prabhavathip
