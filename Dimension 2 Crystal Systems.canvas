@@ -9,6 +9,36 @@
 			"y":-340,
 			"width":180,
 			"height":136
+		},
+		{
+			"id":"6e115ffab12d1959",
+			"type":"file",
+			"file":"Pasted image 20260421143431.png",
+			"styleAttributes":{"border":"invisible"},
+			"x":-20,
+			"y":-340,
+			"width":181,
+			"height":136
+		},
+		{
+			"id":"e061de8e7b3440b4",
+			"type":"file",
+			"file":"Pasted image 20260421143451.png",
+			"styleAttributes":{"border":"invisible"},
+			"x":200,
+			"y":-340,
+			"width":200,
+			"height":136
+		},
+		{
+			"id":"51e505cf9fc1ff19",
+			"type":"file",
+			"file":"Pasted image 20260421144240.png",
+			"styleAttributes":{"border":"invisible"},
+			"x":460,
+			"y":-340,
+			"width":154,
+			"height":136
 		}
 	],
 	"edges":[],
