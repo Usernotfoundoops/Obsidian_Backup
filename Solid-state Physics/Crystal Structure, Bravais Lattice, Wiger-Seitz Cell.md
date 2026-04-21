@@ -9,12 +9,12 @@
 
 #### 2.1.2 Crystal System, Lattice, and Structure
  
-[[MATH Area vector.excalidraw|Math for Area Vector]]
+
 1. Lattice Points can be given by $R = \sum_{i=1}^d n_i a_i$ (d = dimension of the lattice space, a = basis vectors) 
 2.  Unit Cell
 	- Primitive Unit Cell - contains only 1 lattice point
 	- Conventional Unit Cell - more than 1 lattice points but *orthogonal*
 	- Wigner-Seitz Cell - points closer to that specific LP
-3. Area **$A = |a_1 \times a_2|$**
+3. [[MATH Area vector.excalidraw|Area]] **$A = |a_1 \times a_2|$**
 4. Volume(scalar triple product) **$V = |a_1 \cdot (a_2 \times a_3)|$**
 5. 
