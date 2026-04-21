@@ -18,8 +18,21 @@
               "icon": "excalidraw-icon",
               "title": "MATH Area vector.excalidraw"
             }
+          },
+          {
+            "id": "f2b044bfae9257d1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Solid-state Physics/Drawing 2026-04-21 23.53.30.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-04-21 23.53.30.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,8 +181,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cf4c4d4a4b86b8e",
+  "active": "f2b044bfae9257d1",
   "lastOpenFiles": [
+    "Solid-state Physics/Files/MATH Area vector.excalidraw.md",
+    "Solid-state Physics/Drawing 2026-04-21 23.53.30.excalidraw.md",
+    "Untitled.md",
     "Solid-state Physics/Files/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
     "Solid-state Physics/INDEX.md",
     "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
@@ -187,7 +203,6 @@
     "/Solid-state Physics/INDEX.md",
     "/Solid-state Physics/Files/Dimension 2 Crystal Systems.canvas",
     "/Solid-state Physics/Files/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
-    "Solid-state Physics/Files/MATH Area vector.excalidraw.md",
     "Solid-state Physics/Files/Introduction.md",
     "Solid-state Physics/Files/SSP class 2.excalidraw.md",
     "Solid-state Physics/Files/We consider only EM force since other forces are negligible.md",
@@ -214,9 +229,7 @@
     "Solid-state Physics/Drawing 2026-04-16 06.40.37.excalidraw.md",
     "/Solid-state Physics/SSP class 2.excalidraw.md",
     "Solid-state Physics/Drawing 2026-04-20 19.27.35.excalidraw.md",
-    "Solid-state Physics/We consider only EM force since other forces are negligible.md",
     "Excalidraw",
-    "Untitled/Hello.md",
     "Workspace",
     "Emacs",
     "Quantum Annealing",
