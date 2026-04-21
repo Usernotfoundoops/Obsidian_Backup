@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{
+			"id":"626e3cfc7614c793",
+			"type":"file",
+			"file":"Pasted image 20260421143338.png",
+			"styleAttributes":{"border":"invisible"},
+			"x":-240,
+			"y":-340,
+			"width":180,
+			"height":136
+		}
+	],
+	"edges":[],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}

@@ -25,14 +25,17 @@
             "id": "6c8f8a8ab268a02b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
-                "mode": "source",
-                "source": false
+                "file": "Dimension 2 Crystal Systems.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Crystal Structure, Bravais Lattice, Wiger-Seitz Cell"
+              "icon": "lucide-layout-dashboard",
+              "title": "Dimension 2 Crystal Systems"
             }
           }
         ],
@@ -211,16 +214,18 @@
   },
   "active": "6c8f8a8ab268a02b",
   "lastOpenFiles": [
+    "Pasted image 20260421143338.png",
+    "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
+    "Dimension 2 Crystal Systems.canvas",
     "Solid-state Physics/INDEX.md",
-    "Solid-state Physics/Introduction.md",
     "Solid-state Physics/MATH Area vector.excalidraw.md",
+    "Solid-state Physics/Introduction.md",
     "This is what I am trying to understand..md",
     "Workspace/Workspace or Solutions.md",
     "Solid-state Physics/Interactions.canvas",
     "conflict-files-obsidian-git.md",
     "Solid-state Physics/SSP class 2.excalidraw.md",
     "Solid-state Physics/We consider only EM force since other forces are negligible.md",
-    "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
     "C++/Objects and Variables.md",
     "2025/Adv. QM/Chapter 1/Hilbert_Space_Formalization.md",
     "Crystallization of Solids.md",
