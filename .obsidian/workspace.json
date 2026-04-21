@@ -25,17 +25,14 @@
             "id": "6c8f8a8ab268a02b",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Solid-state Physics/Interactions.canvas",
-                "viewState": {
-                  "x": 790,
-                  "y": -190,
-                  "zoom": -0.14169132071336862
-                }
+                "file": "This is what I am trying to understand..md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Interactions"
+              "icon": "lucide-file",
+              "title": "This is what I am trying to understand."
             }
           }
         ],
@@ -213,6 +210,8 @@
   },
   "active": "6c8f8a8ab268a02b",
   "lastOpenFiles": [
+    "Workspace/Workspace or Solutions.md",
+    "Solid-state Physics/Interactions.canvas",
     "Solid-state Physics/Introduction.md",
     "This is what I am trying to understand..md",
     "Solid-state Physics/INDEX.md",
@@ -221,8 +220,6 @@
     "Solid-state Physics/We consider only EM force since other forces are negligible.md",
     "Solid-state Physics/MATH Area vector.excalidraw.md",
     "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
-    "Solid-state Physics/Interactions.canvas",
-    "Workspace/Workspace or Solutions.md",
     "C++/Objects and Variables.md",
     "2025/Adv. QM/Chapter 1/Hilbert_Space_Formalization.md",
     "Crystallization of Solids.md",
