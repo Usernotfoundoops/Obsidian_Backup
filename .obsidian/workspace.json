@@ -25,15 +25,14 @@
             "id": "6c8f8a8ab268a02b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Solid-state Physics/MATH Area vector.excalidraw.md",
-                "bFile": "Solid-state Physics/MATH Area vector.excalidraw.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Solid-state Physics/INDEX.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: MATH Area vector.excalidraw  (Index)"
+              "icon": "lucide-file",
+              "title": "INDEX"
             }
           }
         ],
@@ -194,7 +193,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,14 +211,14 @@
   },
   "active": "6c8f8a8ab268a02b",
   "lastOpenFiles": [
-    "Solid-state Physics/MATH Area vector.excalidraw.md",
-    "Solid-state Physics/Introduction.md",
-    "Solid-state Physics/Interactions.canvas",
+    "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
     "Solid-state Physics/INDEX.md",
+    "Solid-state Physics/Introduction.md",
+    "Solid-state Physics/SSP class 2.excalidraw.md",
+    "Solid-state Physics/MATH Area vector.excalidraw.md",
+    "Solid-state Physics/Interactions.canvas",
     "conflict-files-obsidian-git.md",
     "Solid-state Physics/We consider only EM force since other forces are negligible.md",
-    "Solid-state Physics/SSP class 2.excalidraw.md",
-    "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
     "Workspace/Workspace or Solutions.md",
     "C++/Objects and Variables.md",
     "2025/Adv. QM/Chapter 1/Hilbert_Space_Formalization.md",
