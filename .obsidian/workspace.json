@@ -25,12 +25,14 @@
             "id": "6c8f8a8ab268a02b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Solid-state Physics/MATH Area vector.excalidraw.md"
+                "file": "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH Area vector.excalidraw"
+              "icon": "lucide-file",
+              "title": "Crystal Structure, Bravais Lattice, Wiger-Seitz Cell"
             }
           }
         ],
@@ -209,12 +211,12 @@
   },
   "active": "6c8f8a8ab268a02b",
   "lastOpenFiles": [
-    "This is what I am trying to understand..md",
+    "Solid-state Physics/INDEX.md",
+    "Solid-state Physics/Introduction.md",
     "Solid-state Physics/MATH Area vector.excalidraw.md",
+    "This is what I am trying to understand..md",
     "Workspace/Workspace or Solutions.md",
     "Solid-state Physics/Interactions.canvas",
-    "Solid-state Physics/Introduction.md",
-    "Solid-state Physics/INDEX.md",
     "conflict-files-obsidian-git.md",
     "Solid-state Physics/SSP class 2.excalidraw.md",
     "Solid-state Physics/We consider only EM force since other forces are negligible.md",

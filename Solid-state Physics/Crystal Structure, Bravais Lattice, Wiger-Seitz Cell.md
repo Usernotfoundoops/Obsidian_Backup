@@ -10,4 +10,7 @@
 #### 2.1.2 Crystal System, Lattice, and Structure
  
 [[MATH Area vector.excalidraw|Math for Area Vector]]
-.
+1. Lattice Points can be given by $R = \sum_{i=1}^d n_i a_i$ (d = dimension of the lattice space, a = basis vectors) 
+2.  Unit Cell
+	- Primitive Unit Cell
+	- Conventional 
