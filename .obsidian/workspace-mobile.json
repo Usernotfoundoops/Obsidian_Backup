@@ -11,12 +11,14 @@
             "id": "082572cf67e7752a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Solid-state Physics/MATH Area vector.excalidraw.md"
+                "file": "Solid-state Physics/INDEX.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "MATH Area vector.excalidraw"
+              "icon": "lucide-file",
+              "title": "INDEX"
             }
           }
         ]
@@ -110,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Solid-state Physics/MATH Area vector.excalidraw.md",
+            "file": "Solid-state Physics/INDEX.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -170,17 +172,18 @@
   },
   "active": "082572cf67e7752a",
   "lastOpenFiles": [
+    "/Solid-state Physics/MATH Area vector.excalidraw.md",
+    "/Solid-state Physics/INDEX.md",
+    "/Solid-state Physics",
+    "Solid-state Physics/MATH Area vector.excalidraw.md",
     "Solid-state Physics/INDEX.md",
     "Solid-state Physics/Interactions.canvas",
     "Solid-state Physics/Introduction.md",
-    "Solid-state Physics/MATH Area vector.excalidraw.md",
     "Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
     "Solid-state Physics/SSP class 2.excalidraw.md",
     "Solid-state Physics/Drawing 2026-04-16 06.40.37.excalidraw.md",
     "/Solid-state Physics/SSP class 2.excalidraw.md",
     "/Solid-state Physics/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
-    "/Solid-state Physics/MATH Area vector.excalidraw.md",
-    "/Solid-state Physics",
     "Solid-state Physics/Drawing 2026-04-20 19.27.35.excalidraw.md",
     "conflict-files-obsidian-git.md",
     "Solid-state Physics/We consider only EM force since other forces are negligible.md",
