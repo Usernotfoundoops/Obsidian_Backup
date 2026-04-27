@@ -11,14 +11,12 @@
             "id": "6c8f8a8ab268a02b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Solid-state Physics/Files/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
-                "mode": "source",
-                "source": false
+                "file": "Experiment .pdf"
               },
-              "icon": "lucide-file",
-              "title": "Crystal Structure, Bravais Lattice, Wiger-Seitz Cell"
+              "icon": "lucide-file-text",
+              "title": "Experiment"
             }
           }
         ]
@@ -78,7 +76,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "80c174c87e864415",
@@ -196,10 +195,12 @@
   },
   "active": "6c8f8a8ab268a02b",
   "lastOpenFiles": [
+    "Solid-state Physics/Files/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
+    "Solid-state Physics/Drawing 2026-04-22 01.39.16.excalidraw.md",
+    "Experiment .pdf",
     "Solid-state Physics/Drawing 2026-04-21 23.53.30.excalidraw.md",
     "Solid-state Physics/INDEX.md",
     "Solid-state Physics/Files/Dimension 2 Crystal Systems.canvas",
-    "Solid-state Physics/Files/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
     "Solid-state Physics/Files/MATH Area vector.excalidraw.md",
     "Solid-state Physics/Files/Pasted image 20260421143338.png",
     "Solid-state Physics/Files/Interactions.canvas",
@@ -231,7 +232,6 @@
     "Untitled.base",
     "Workspace",
     "Untitled 2.base",
-    "Untitled 3.base",
     "C++/Materials/Implementation Diagram.canvas",
     "BIG IMAGE.md",
     "Emacs/Keybind.md"
