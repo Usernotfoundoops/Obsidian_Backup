@@ -15,11 +15,11 @@
 	1. Ideal Diamagnetism and the Meissner Effect
 	2. Type-I vs. Type-II Superconductors
 	3. Flux Quantization and Abrikosov Vortex Lattice
-8. Magnetic Susceptibility and Magnetization
+8. Magnetic Susceptibility
 	1. Diamagnetic, Paramagnetic, and Ferromagnetic Materials
 	2. Magnetization Curves of Superconductors
 	3. Critical Field, Temperature, and Current Density
-9. Experimental Methods
+9. Experimental Analysis
 	1. Four-Point Probe Measurements
 	2. Inductive AC-Susceptibility Measurements
 	3. Deep-Stick Setup and Lock-In Technique
