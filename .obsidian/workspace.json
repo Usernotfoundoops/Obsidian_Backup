@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrical Resistance and Temperature Dependence.md",
+                "file": "ALC/Super Conductivity/Preparation Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Electrical Resistance and Temperature Dependence"
+              "title": "Preparation Questions"
             }
           }
         ],
@@ -209,16 +209,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "feb7bf8524202f9c",
+  "active": "c910f9de495d8bbd",
   "lastOpenFiles": [
-    "Experiment .pdf",
+    "ALC/Super Conductivity/Materials/The discovery of superconductivity.pdf",
+    "ALC/Super Conductivity/Materials/kittel Intro to SSP 8th Ed..pdf",
+    "ALC/Super Conductivity/Materials/Superconductivity_Fundamentals and Applicaiton.pdf",
+    "ALC/Super Conductivity/Materials/Fundamentals and Applicaiton Buckel and Kleiner.pdf",
+    "ALC/Super Conductivity/Materials/brandt1989 Levitation in Physics.pdf",
+    "ALC/Super Conductivity/Materials/Michael Tinkham, \"Introduction to Superconductivity\", McGraw-Hill, 2nd ed., 1996..pdf",
+    "ALC/Super Conductivity/Materials/SUPERCONDUCTIVITY B31E.pdf",
+    "ALC/Super Conductivity/Materials/Images/ybacuo.png",
+    "ALC/Super Conductivity/Materials/Images/nb.png",
+    "ALC/Super Conductivity/Materials/Images",
+    "ALC/Super Conductivity/Materials",
     "Electrical Resistance and Temperature Dependence.md",
+    "Experiment .pdf",
     "ALC/Super Conductivity/Preparation Questions.md",
     "ALC/Guidelines.md",
     "MFQT",
-    "ALC/Super Conductivity",
     "Solid-state Physics/Files/Crystal Structure, Bravais Lattice, Wiger-Seitz Cell.md",
-    "ALC",
     "Solid-state Physics/INDEX.md",
     "Solid-state Physics/Drawing 2026-04-21 23.53.30.excalidraw.md",
     "Solid-state Physics/Drawing 2026-04-22 01.39.16.excalidraw.md",
@@ -226,7 +235,6 @@
     "Solid-state Physics/Files/MATH Area vector.excalidraw.md",
     "Solid-state Physics/Files/Pasted image 20260421143338.png",
     "Solid-state Physics/Files/Interactions.canvas",
-    "Solid-state Physics/Files",
     "Solid-state Physics/Files/Pasted image 20260421144240.png",
     "Solid-state Physics/Files/Pasted image 20260421143451.png",
     "Solid-state Physics/Files/Pasted image 20260421143431.png",
@@ -242,12 +250,7 @@
     "Crystallization of Solids.md",
     "C++/INDEX.md",
     "C++/Materials/Assembly Language.canvas",
-    "C++/Materials",
-    "Solid-state Physics",
     "C++/Materials/Basics.md",
-    "Ink/Drawing/2026.4.15 - 3.04am.drawing",
-    "Ink/Drawing",
-    "Ink",
     "C++/Materials/BIG IMAGE.canvas",
     "C++/Materials/C vs C++.md",
     "C++/Materials/Implementation Diagram.canvas",
