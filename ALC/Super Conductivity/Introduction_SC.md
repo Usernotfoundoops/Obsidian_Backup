@@ -10,6 +10,8 @@ van Delft & Kes (2010)
 9. Lead and Tin - 6K and 4K
 10. Lead Ring maintined 200A current when supercooled
 
+(B- Magnetic Flux Density (Tesla)
+H - Magnetic Field Strength (A/m)
 
 
 Buckel & Kleiner (2004)
