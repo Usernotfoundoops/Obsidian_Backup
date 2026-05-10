@@ -20,3 +20,4 @@ Buckel & Kleiner (2004)
 3. Two disk experiment with mirror to show if the permanent current  changes at a different rate for same material
 4. Superconducting magnetic field sensors increases sensitivity (17 order of magnitude smaller than copper at room temperature  (300 K))  
 5. The difference in resistance between a super conductive material vs normal conductive material and a conductive vs insulator material is equal.
+6. 
