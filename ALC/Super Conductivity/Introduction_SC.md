@@ -13,3 +13,7 @@ van Delft & Kes (2010)
 
 
 Buckel & Kleiner (2004)
+1. Kamerlingh-Onnes developed best method to show the existence of SC in mercury.
+2. We can show the current is dissapated by joules heating.
+3. Two disk experiment with mirror to show if the permanent current  changes at a different rate for same material
+4. 
