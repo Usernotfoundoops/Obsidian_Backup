@@ -20,4 +20,8 @@
 
 
 3. Semiconductors
-4. Superconductors and BCS Theory
+4. ![[Pasted image 20260511172709.png]]
+	![[Pasted image 20260511172725.png]]
+	![[Pasted image 20260511172739.png]]
+	
+5. Superconductors and BCS Theory
