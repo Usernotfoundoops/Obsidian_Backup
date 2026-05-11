@@ -15,7 +15,9 @@
 	3.  \sigma = \frac{ne^2\tau}{m_e}
 	4.  We discuss on how dispersion time component is split into two depending on phonons and lattice impurities.
 	5. Then we expand this using Mattheissen rule on resistivity.
+	6. Mean free path upto 10 cm are observed in SC material 
+	7. Hall Effect
 
 
-5. Semiconductors
-6. Superconductors and BCS Theory
+3. Semiconductors
+4. Superconductors and BCS Theory
