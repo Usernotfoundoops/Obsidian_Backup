@@ -13,7 +13,8 @@
 	1. Ohms law: j = nqv = ne^2\tau E/m 
 	2. Electrical conductivity = j = sigma E
 	3.  \sigma = \frac{ne^2\tau}{m_e}
-	4. 
+	4.  We discuss on how dispersion time component is split into two depending on phonons and lattice impurities.
+	5. Then we expand this using Mattheissen rule on resistivity.
 
 
 5. Semiconductors
