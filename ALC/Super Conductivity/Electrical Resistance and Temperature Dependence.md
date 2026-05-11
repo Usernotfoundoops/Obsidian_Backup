@@ -8,13 +8,13 @@
 6. Also, we can use varying magnetic field (8-Tesla magnet) with fixed T and observing the resistance from the 2 resistor probes to determine the second critical field temperature dependence B_{c2}(T)
 7. The plot between cross-point line on each B hysteresis vs Temp shows the B_{c2}(T) curve (slight deviation - Boundary scattering effects (mean free path, coherence length))
 
-[Material] The discovery of superconductivity-Dirk van Delft and Peter Kes:
-1. 
-
-
-
-
 
 2. Metals
-3. Semiconductors
-4. Superconductors and BCS Theory
+	1. Ohms law: j = nqv = ne^2\tau E/m 
+	2. Electrical conductivity = j = sigma E
+	3.  \sigma = \frac{ne^2\tau}{m_e}
+	4. 
+
+
+5. Semiconductors
+6. Superconductors and BCS Theory
