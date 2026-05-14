@@ -3,3 +3,7 @@
 3. Exponential funktion
 4. Parabel und quadratische Gleichungen
 5. Daten und Zufall
+
+
+
+Any lines which connects the points lying on the circle wit
